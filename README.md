@@ -1,6 +1,6 @@
 # PsExecTools #
 
-[![Maintained](https://img.shields.io/badge/Maintained-Not%20maintained-red.svg)]()
+[![Maintained](https://img.shields.io/badge/Status-Dev.%20paused-yellow.svg)]()
 [![Stable](https://img.shields.io/badge/Status-Unstable-red.svg)]()
 
 Public release: February, 2016
